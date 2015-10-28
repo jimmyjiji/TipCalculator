@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill">What is the total bill?</string>
+    <string name="enter_bill">Enter here</string>
+    <string name="tip_percentage">How much percent would you like to tip?</string>
+    <string name="split">How many people are splitting?</string>
+    <string name="action_settings">Settings</string>
+    <string name="result">Total tip is:</string>
+    <string name="evaluate">Evaluate</string>
+    <string name="title_activity_result">Result</string>
+
+    //activity_result
+
+    <string name="final_bill">The final bill is:</string>
+    <string name="final_split">The final split is:</string>
+    <string name="person">per person</string>
+</resources>
